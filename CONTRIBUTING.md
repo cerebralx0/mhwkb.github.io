@@ -18,7 +18,7 @@ want to do.**
   * Request membership to the [KB
   team](https://github.com/orgs/mhwkb/teams/kb) (no application is
   necessary, just ask for an invite)
-  * [Chat (Slack Workspace)](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
+  * [Matrix Chat Room](https://matrix.to/#/!IYJbSsQLyEzkioQJdn:matrix.org)
   * [Create or Discuss Issues](https://github.com/mhwkb/mhwkb.github.io/issues)
 
 ## CSS and html design
@@ -52,7 +52,7 @@ repo](https://github.com/mhwkb/mhwkb.github.io#fork-destination-box)
 2. Clone it to your computer
 
 3. You're welcome to [join the chat
-room](https://join.slack.com/t/mhwkb/shared_invite/enQtMjU3MjcwMTk4NjYzLTA0ZDc2YjAwMDJiNTU1YTBmYTViNmQ5MTdjOTk2MDA2MDMyMzNiYjU4ZWIzMTZlNmU4ZjFhNDg1MjQ5OGQyMjI)
+room](https://matrix.to/#/!IYJbSsQLyEzkioQJdn:matrix.org)
 
 3. When you're ready to work on an issue, be sure you're on the
 **jekyll** branch. From there, [create a separate
