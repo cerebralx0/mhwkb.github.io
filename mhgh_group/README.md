@@ -51,7 +51,7 @@ removed, please let me know.
 ## Promote your project
 
 A resource page I host<br />
-[Mental Health GitHub Projects](https://github.com/mhwkb/mhwkb.github.io/tree/master/mhgh_group/list)
+[Mental Health GitHub Projects](https://github.com/mhwkb/mhwkb.github.io/tree/jekyll/mhgh_group/list)
 
 With single pull request, you can get your project listed here:<br />
 [Up-For-Grabs](http://up-for-grabs.net/)
