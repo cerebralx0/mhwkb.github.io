@@ -81,6 +81,6 @@ have contributed)
 * [FAQ](FAQ.md)
 
 ## Contact
-* Andy Alt (andy400-dev@yahoo.com)
+* [Andy Alt](https://github.com/andy5995/) (andy400-dev@yahoo.com)
 * [Matrix Chat Room](https://matrix.to/#/!IYJbSsQLyEzkioQJdn:matrix.org)
 * [Issues](https://github.com/mhwkb/mhwkb.github.io/issues)
