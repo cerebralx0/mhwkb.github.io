@@ -280,12 +280,13 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
   border: 1px solid #dedede;
   border-radius: 3px;
   font-size: 14px;
-  background: #ffffff;
-  color: #337ab7;
+  background: #fded75;
+  color: #343638;
 }
 
 .tag-btn:hover {
-  background: #f5f4f4;
+  background: #fbe777;
+  color: #343638;
 }
 
 .tag-btn span.fa {
