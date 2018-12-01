@@ -14,7 +14,7 @@
 		<a class="btn btn-primary" href="{{ site.url }}/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' | downcase }}/">{{ tag }}</a>
 		{% endfor %}
 		<p>
-			<a href="https://github.com/mhwkb/mhwkb.github.io/tree/jekyll/{{ post.path }}">
+			<a class="tag-btn" href="https://github.com/mhwkb/mhwkb.github.io/tree/jekyll/{{ post.path }}">
 			<span class="fa fa-pencil">&nbsp;</span>Edit this entry</a>
 		</p>
 	</div>
