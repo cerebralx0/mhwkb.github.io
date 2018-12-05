@@ -31,7 +31,7 @@ https://mhwkb.github.io/
 
 ### Do we need a mailing list for updates?
 I think our
-[Matrix chat room](https://matrix.to/#/!IYJbSsQLyEzkioQJdn:matrix.org)
+[Matrix chat room](https://riot.im/app/#/room/!IYJbSsQLyEzkioQJdn:matrix.org)
 is a good alternative.
 
 But I'm open to feedback about whether or not an email list is desired.
@@ -82,5 +82,5 @@ have contributed)
 
 ## Contact
 * [Andy Alt](https://github.com/andy5995/) (andy400-dev@yahoo.com)
-* [Matrix Chat Room](https://matrix.to/#/!IYJbSsQLyEzkioQJdn:matrix.org)
+* [Matrix Chat Room](https://riot.im/app/#/room/!IYJbSsQLyEzkioQJdn:matrix.org)
 * [Issues](https://github.com/mhwkb/mhwkb.github.io/issues)
