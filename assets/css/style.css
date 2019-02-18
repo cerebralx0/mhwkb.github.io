@@ -296,3 +296,69 @@ h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {
 a.tag-btn {
   text-decoration: none;
 }
+
+.feed-title {
+  background-color: #EDB60F;
+}
+
+/* CSS hooks for RSS feeds that are displayed from
+ * https://rss.bloople.net/
+ */
+.feed-title {
+  background-color: #0187C6;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.feed-item-title {
+  background-color: #F8D25D;
+  font-size: 18px;
+  text-indent: 50px;
+}
+
+.feed-item-desc {
+  background-color: #FEE392;
+}
+
+/* GitHub Corners
+ * https://github.com/tholman/github-corners/
+ */
+.github-corner:hover .octo-arm {
+  animation: octocat-wave 560ms ease-in-out;
+}
+
+@keyframes octocat-wave {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    20% {
+        transform: rotate(-25deg);
+    }
+
+    40% {
+        transform: rotate(10deg);
+    }
+
+    60% {
+        transform: rotate(-25deg);
+    }
+
+    80% {
+        transform: rotate(10deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+@media (max-width: 500px) {
+    .github-corner:hover .octo-arm {
+        animation: none;
+    }
+
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out;
+    }
+}
