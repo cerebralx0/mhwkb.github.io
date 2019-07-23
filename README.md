@@ -1,6 +1,8 @@
 # mhwKB
 Mental Health Knowledge Base<br />
-https://mhwkb.github.io/
+https://mentalhealth-kb.net/
+
+This project is no longer active and the repo has been archived.
 
 ## Goals
 * [increase awareness](http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=21689&LangID=E)
@@ -18,23 +20,6 @@ https://mhwkb.github.io/
   * more freedom to choose how they would like to pursue their recovery goals
   * the potential for a more open discussion related to how the mental health
   care system could be improved
-
-## Suggest a link or add one through a pull request
-* [Link template](https://github.com/mhwkb/mhwkb.github.io/issues/new?title=Link%20suggestion%20-) (type the details into a ticket)
-* [Open Ticket](https://github.com/mhwkb/mhwkb.github.io/issues/11) (PR)
-
-## Project and site updates
-  [![RSS](images/rss_23x23.jpeg)](https://github.com/mhwkb/mhwkb.github.io/commits/master.atom)
-  [Web site updates](https://mhwkb.github.io/feed.xml)<br />
-  [![RSS](images/rss_23x23.jpeg)](https://github.com/mhwkb/mhwkb/commits/master.atom)
-  [GitHub Project updates](https://github.com/mhwkb/mhwkb.github.io/commits/master.atom)
-
-### Do we need a mailing list for updates?
-I think our
-[Matrix chat room](https://riot.im/app/#/room/!IYJbSsQLyEzkioQJdn:matrix.org)
-is a good alternative.
-
-But I'm open to feedback about whether or not an email list is desired.
 
 ## Disclaimer
 The content on the web sites linked to from the knowledge base has been
@@ -55,22 +40,6 @@ and ADHD drugs) without a doctor's supervision. If you have firmly decided to
 discontinue medication without a doctor's supervision, you can find some guides
 to medication withdrawal (a.k.a. [_discontinuation syndrome_](https://psychcentral.com/lib/what-is-discontinuation-syndrome/)) on book-selling sites, or sites such as [The Icarus Project](http://theicarusproject.net/).
 
-## About Andy Alt (Project Owner)
-I first received treatment for mental health issues (major depression, anxiety,
-PTSD) in 1991 (age 18). As a patient, I have seen numerous psychiatrists and
-psychotherapists, and have been prescribed (and used) many types of psychiatric
-medication. I have read many opinions on the subject of mental health, and the
-negative and positive experiences consumers have had while using the mental
-health care system. I have also read information written by journalists and
-doctors. I have no formal education in biology, medicine, psychiatry, or
-psychology.
-
-In 1981, when I was eight years old, my father committed suicide. In 2005, I wrote
-[_Damned Tears_](http://ifyouregoingthoughhellkeepgoing.blogspot.com/2009/01/friend-writes-of-his-fathers-suicide.html)
-during a healing episode. Many people have told me how much they like it and one father
-even told me it reminded him to stay alive for his children. I sometimes have posted
-in places where suicide prevention is discussed.
-
 ## Contributing to the KB
 * [Contributing](CONTRIBUTING.md)
 * [Testing your CSS and HTML changes](TESTING.md)
@@ -82,5 +51,3 @@ have contributed)
 
 ## Contact
 * [Andy Alt](https://github.com/andy5995/) (andy400-dev@yahoo.com)
-* [Matrix Chat Room](https://riot.im/app/#/room/!IYJbSsQLyEzkioQJdn:matrix.org)
-* [Issues](https://github.com/mhwkb/mhwkb.github.io/issues)
